@@ -1,0 +1,291 @@
+.bugs {
+  background-color: burlywood;
+  display: flex;
+  width: 500px;
+  height: 280px;
+  border-radius: 70px;
+  position: relative;
+  top: 50px;
+}
+
+.bugs input{
+  display: block;
+  margin: 50px;
+  background-color: transparent;
+  outline: none;
+  border-color: rgb(18, 17, 17);
+  width: 400px;
+
+}
+
+.bugs button{
+  position: relative;
+  left: 160px;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  width:140px;
+  border-radius: 30px;
+}
+
+.tott{
+  width: 300px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: black;
+  background-color: antiquewhite;
+  padding: 20px;
+}
+
+.tott:placeholder-shown{
+  color: black;
+}
+
+.kkk {
+  position: absolute;
+  left: 600px;
+  bottom: 200px;
+  top: 100px;
+  background-color: darkgreen;
+  width: 430px;
+  padding: 50px;
+  border-radius: 30px;
+  height: 280px;
+}
+
+.kkk input{
+  display: block;
+  margin: 50px;
+  width: 400px;
+  border-color:white ;
+  outline: none;
+  background-color: transparent;
+  color: white;
+}
+
+.kkk button{
+  position: relative;
+  left: 160px;
+  padding: 20px;
+  background-color: white;
+  color: black;
+  width:140px;
+  border-radius: 30px;
+}
+
+.diss {
+  position: absolute;
+  top: 700px;
+  width: 100%;
+  list-style: none;
+  right: 10px;
+}
+
+.diss li{
+  margin: 20px;
+  background-color: antiquewhite;
+  padding: 40px;
+ 
+}
+
+.ddd{
+  margin: 60px;
+}
+
+.ddd td{
+  border: 1px solid black;
+  padding: 40px;
+}
+
+.dddd th{
+  border: 1px solid black;
+  margin: 40px;
+  padding: 40px;
+}
+
+table{
+  border-collapse: collapse;
+  position: relative;
+  left: 350px;
+}
+
+.nbudg{
+  position: relative;
+  bottom: 30px;
+}
+
+.dfg{
+  position: relative;
+  bottom: 20px;
+}
+
+.diss {
+  list-style-type: none;
+  padding: 0;
+}
+
+.diss {
+  list-style-type: none;
+  padding: 0;
+}
+
+.budget-item {
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.profit-loss {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.nbudg {
+  margin: 0;
+}
+
+.dfg {
+  margin: 0;
+}
+
+.dddd {
+  background-color: #f4f4f4;
+}
+
+.ddd {
+  background-color: #fff;
+}
+
+.ddd td {
+  border: 1px solid black;
+  padding: 40px;
+}
+
+.dddd th {
+  border: 1px solid black;
+  margin: 40px;
+  padding: 40px;
+}
+
+table {
+  border-collapse: collapse;
+  position: relative;
+  left: 350px;
+}
+
+.sign{
+  position: relative;
+  top:-40px;
+  background-color: aquamarine;
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
+  left: 400px;
+  bottom: 50px;
+}
+
+.sign input{
+  display: block;
+  margin: 50px;
+  width: 270px;
+
+}
+
+.signinp {
+  position: relative;
+  top:100px;
+  left: 60px;
+}
+
+.signinp p {
+  position: relative;
+  left: 210px;
+
+}
+
+.sign p b a{
+  text-decoration: none;
+}
+.btnn{
+  position: relative;
+  top: 160px;
+  left:200px ;
+}
+
+.con{
+  position: relative;
+  top:50px
+}
+
+.ghj {
+  position: relative;
+  top:190px;
+  z-index: 1;
+  left: 600px;
+  top: 90px;
+}
+
+.hello{
+  position: relative;
+  top:180px;
+  left: 120px;
+}
+
+.btnnn{
+  position: relative;
+  top:260px;
+  left: 110px;
+}
+
+.fd{
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  font-size: larger;
+}
+
+
+
+.fd:hover{
+  background-color: lightcoral;
+}
+
+.hju{
+  background-color: black;
+  color: aliceblue;
+  padding: 15px;
+
+}
+.asd{
+  position: absolute;
+  top: 550px;
+  left: 60px;
+}
+
+.asd input{
+  width: 500px;
+  height: 30px;
+  background-color: transparent;
+  margin-right: 50px;
+
+}
+
+.dfgh{
+  position: absolute;
+  left: 560px;
+  bottom: 35px;
+}
+
+.ch {
+  font-size: 18px; 
+  font-weight: bold; 
+  padding: 10px; 
+  border-radius: 5px; 
+  text-align: center; 
+}
+
+
+
